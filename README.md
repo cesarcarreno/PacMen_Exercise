@@ -1,21 +1,21 @@
-#PacMan Project#
+# PacMan Project
 
-##Description of the project##
+## Description of the project
 
 This project creates a new pacman after pressing Add PacMan. Start Game makes the PacMan move accross the screen. Additionally pressing Add PacMan will add another one and pressing Start Game will make them move faster. 
 
 
-How to Run 
+## How to Run 
 
 Clone this repo and open index.html.
 
 
-Roadmap of future improvements:
+## Roadmap of future improvements:
 
 In the future I would like to add ghosts to the pac-man exercise to make it more accurate to the original video game and it would be a good programming challenge.
 
 
-License information
+## License information
 
 MIT License
 
