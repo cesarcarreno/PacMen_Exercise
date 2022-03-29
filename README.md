@@ -1,6 +1,6 @@
-PacMan Project
+#PacMan Project
 
-Description of the project
+##Description of the project
 
 This project creates a new pacman after pressing Add PacMan. Start Game makes the PacMan move accross the screen. Additionally pressing Add PacMan will add another one and pressing Start Game will make them move faster. 
 
